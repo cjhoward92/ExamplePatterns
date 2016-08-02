@@ -1,0 +1,5 @@
+C:\Development\test\ExamplePatterns\ExamplePatterns.Library\bin\Debug\ExamplePatterns.Library.dll
+C:\Development\test\ExamplePatterns\ExamplePatterns.Library\bin\Debug\ExamplePatterns.Library.pdb
+C:\Development\test\ExamplePatterns\ExamplePatterns.Library\obj\Debug\ExamplePatterns.Library.csprojResolveAssemblyReference.cache
+C:\Development\test\ExamplePatterns\ExamplePatterns.Library\obj\Debug\ExamplePatterns.Library.dll
+C:\Development\test\ExamplePatterns\ExamplePatterns.Library\obj\Debug\ExamplePatterns.Library.pdb

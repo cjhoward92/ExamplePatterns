@@ -1,0 +1,10 @@
+C:\Development\test\ExamplePatterns\ExamplePatterns\bin\Debug\ExamplePatterns.exe.config
+C:\Development\test\ExamplePatterns\ExamplePatterns\bin\Debug\ExamplePatterns.exe
+C:\Development\test\ExamplePatterns\ExamplePatterns\bin\Debug\ExamplePatterns.pdb
+C:\Development\test\ExamplePatterns\ExamplePatterns\bin\Debug\ExamplePatterns.Library.dll
+C:\Development\test\ExamplePatterns\ExamplePatterns\bin\Debug\SimpleInjector.dll
+C:\Development\test\ExamplePatterns\ExamplePatterns\bin\Debug\ExamplePatterns.Library.pdb
+C:\Development\test\ExamplePatterns\ExamplePatterns\bin\Debug\SimpleInjector.xml
+C:\Development\test\ExamplePatterns\ExamplePatterns\obj\Debug\ExamplePatterns.csprojResolveAssemblyReference.cache
+C:\Development\test\ExamplePatterns\ExamplePatterns\obj\Debug\ExamplePatterns.exe
+C:\Development\test\ExamplePatterns\ExamplePatterns\obj\Debug\ExamplePatterns.pdb
